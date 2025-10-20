@@ -62,4 +62,4 @@ expo start
 
 O projeto deve ser carregado e a Calculadora Científica será exibida!!
 
-<strong>🚀 Desenvolvido por: Gabriela Gomes, Julio Samuel e Leonardo Silva </strong>
+<strong>🚀 Desenvolvido por: Gabriela Gomes </strong>
